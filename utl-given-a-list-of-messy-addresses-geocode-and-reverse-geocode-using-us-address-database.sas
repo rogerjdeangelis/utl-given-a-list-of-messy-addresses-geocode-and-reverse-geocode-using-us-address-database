@@ -17,6 +17,10 @@ ORIGINAL SOURCES
    https://batch.openaddresses.io/data#map=0.45/-23.2/46.3
    https://bcdcspatial.blogspot.com/2012/09/normalize-to-usps-street-abbreviations.html
 
+github                                                                                                                      
+https://tinyurl.com/yck8yu68                                                                                                
+https://github.com/rogerjdeangelis/utl-given-a-list-of-messy-addresses-geocode-and-reverse-geocode-using-us-address-database
+
 PROCESS
 
    Because the download is an 7zip self extracting executable you may want to use an incognito window or
